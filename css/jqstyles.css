@@ -1,0 +1,16 @@
+
+
+#card>div{
+  border: 1px solid #007bff;
+  border-radius: 15px;
+  background-color: #aed0f53b;
+}
+
+#card .product .deparment{
+  position: absolute;
+  right: 0px;
+  top: 7px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px 0 0 5px;
+}
